@@ -15,7 +15,7 @@ export const About = () => {
               <span className="bg-indigo-500 text-white py-2 px-3 rounded font-bold mr-1 float-left text-2xl">
                 H
               </span>
-              ey! I&apos;m Bob, if you haven&apos;t already gathered that by
+              ey! I&apos;m Galil, if you haven&apos;t already gathered that by
               now. I&apos;m a painter turned software engineer from Daytona,
               Florida. I specialize in the backend, primarily Node and Rust, but
               love building with whatever tools are right for the job.
