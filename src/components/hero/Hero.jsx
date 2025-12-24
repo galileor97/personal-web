@@ -9,21 +9,24 @@ const Hero = () => {
         <div className="pointer-events-none relative z-10">
           <Reveal>
             <h1 className="pointer-events-auto text-4xl sm:text-6xl font-black text-zinc-100 md:text-8xl">
-              Hi, I'm Galil<span className="text-indigo-500">.</span>
+              Hi, I'm Galih<span className="text-indigo-500">.</span>
             </h1>
           </Reveal>
           <Reveal>
             <h2 className="pointer-events-auto my-2 text-xl sm:text-2xl text-zinc-300 md:my-4 md:text-4xl">
               I'm a{" "}
               <span className="font-semibold text-indigo-500">
-                Full Stack Developer
+                Software Developer
               </span>
             </h2>
           </Reveal>
           <Reveal>
             <p className="pointer-events-auto leading-relaxed md:leading-relaxed max-w-xl text-sm text-zinc-300 md:text-base">
-              I've spent the last 2 years building and scaling software for some
-              pretty cool companies. I also doing UI/UX design Freelancing on my free time. Let's connect!
+              A Software Developer and UI/UX enthusiast with a passion for creating
+              user-centered, responsive digital experiences. After transitioning
+              from digital marketing, I completed a full-stack bootcamp at
+              Hacktiv8, specializing in React, Tailwind CSS, and performance
+              optimization.
             </p>
           </Reveal>
           <Reveal>

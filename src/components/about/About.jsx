@@ -15,30 +15,27 @@ export const About = () => {
               <span className="bg-indigo-500 text-white py-2 px-3 rounded font-bold mr-1 float-left text-2xl">
                 H
               </span>
-              ey! I&apos;m Galil, if you haven&apos;t already gathered that by
-              now. I&apos;m a painter turned software engineer from Daytona,
-              Florida. I specialize in the backend, primarily Node and Rust, but
+              ey! I&apos;m Galih, if you haven&apos;t already gathered that by
+              now. I&apos;m a digital marketer turned software developer from Jakarta,
+              Indonesia. I specialize in the full stack, primarily React and Node.js, but
               love building with whatever tools are right for the job.
             </p>
           </Reveal>
           <Reveal>
             <p className="leading-relaxed text-zinc-300">
-              I currently work for Google on Google Photos. I also toss in my ¢2
-              with the design systems teams from time to time (once an artist,
-              always an artist, amirite?).
+              I currently work for PT Applimetis Parama Solusi as a Full Stack Developer.
+              Whether building web apps, launching NFT platforms, or enhancing brands&apos; online presence, I bring a design-first mindset and creative problem-solving to every project.
             </p>
           </Reveal>
           <Reveal>
             <p className="leading-relaxed text-zinc-300">
-              Outside of work, I still love to paint. Any given Sunday
-              you&apos;ll find me scribbling some happy clouds with my son ☁️ I
-              even teach courses online if you&apos;re looking to learn!
+              Outside of my main job, I enjoy freelancing on Fiverr where I deliver responsive websites across SaaS, eCommerce, and NFT niches.
+              I also love exploring new technologies and building cool projects.
             </p>
           </Reveal>
           <Reveal>
             <p className="leading-relaxed text-zinc-300">
-              I&apos;m passively looking for new positions where I can merge my
-              love for code with my love for the canvas. If you think
+              I&apos;m always looking for new challenges and opportunities to grow. If you think
               you&apos;ve got an opening that I might like, let&apos;s connect
               🔗
             </p>

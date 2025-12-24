@@ -18,134 +18,58 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
-    imgSrc: "project-imgs/example-project.jpg",
+    title: "Potret-ai",
+    imgSrc: "project-imgs/img.png",
     code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Flutter", "MUI", "Python", "FastAPI"],
-    description:
-      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+    projectLink: "#",
+    tech: ["Node.js", "Express", "React", "Replicate"],
+    description: "A diffusion pipeline for zero-shot stylized portrait creation.",
     modalContent: (
       <>
-        <p>
-          Pain.app is a real-time coaching app for students learning to paint.
-          This app is my baby, designed and built on my own.
-        </p>
-        <p>
-          The tech stack is based on top of Flutter for the mobile app,
-          connected to a Python & FastAPI backend, with data stored in Postgres,
-          deployed on Heroku.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
+        <p>Portrait Image Generator: A diffusion pipeline for zero-shot stylized portrait creation.</p>
+        <p>Tech stack: Node.js, Express, Google Auth, React, PostgreSQL, Replicate, Cloudinary, NextUI, Tailwind.css and Sequelize.</p>
       </>
     ),
   },
   {
-    title: "The Canvas Club",
-    imgSrc: "project-imgs/example-project.jpg",
+    title: "Instagram Clone",
+    imgSrc: "project-imgs/img.png",
     code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Node", "Express", "Postgres", "Kafka", "Redis"],
-    description:
-      "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
+    projectLink: "#",
+    tech: ["React Native", "GraphQL", "MongoDB", "Redis"],
+    description: "Mobile application with an Instagram-like theme focusing on user interaction.",
     modalContent: (
       <>
-        <p>
-          The Canvas Club is a social community for painters to connect with
-          others in their community.
-        </p>
-        <p>
-          I work primarily on the backend, a collection of Node & Express
-          microservices. Data is stored primarily in Postgres & cached in Redis.
-        </p>
-        <p>
-          The team in total consists of 5 developers. This is a passion project
-          for all of us.
-        </p>
-        <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
-          {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
+        <p>Mobile application with an Instagram-like theme focusing on user interaction and content management.</p>
+        <p>Tech stack: GraphQL, Apollo Server, MongoDB, Redis, React Native (Expo), and React Navigation.</p>
       </>
     ),
   },
   {
-    title: "BrushWire",
-    imgSrc: "project-imgs/example-project.jpg",
+    title: "Gumpstore",
+    imgSrc: "project-imgs/img.png",
     code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
-    description:
-      "Think Zapier but for paint. Built with a team of four college friends and scaled to > 1 billion requests per day. This was a fun one.",
+    projectLink: "#",
+    tech: ["Next.js", "TypeScript", "Node.js", "MongoDB"],
+    description: "Web-based eCommerce platform designed with a neo-brutalism style.",
     modalContent: (
       <>
-        <p>
-          Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 billion requests per day.
-          This was a fun one.
-        </p>
-        <p>
-          Since &quot;Zapier for paint&quot; doesn&apos;t mean anything, be
-          creative {":)"}
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
+        <p>Web-based eCommerce platform designed with a neo-brutalism style.</p>
+        <p>Tech stack: Node.js, Next.js, Typescript, and MongoDB.</p>
       </>
     ),
   },
   {
-    title: "Paint Reference 4",
-    imgSrc: "project-imgs/example-project.jpg",
+    title: "Project Shura",
+    imgSrc: "project-imgs/img.png",
     code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Python", "FastAPI", "SQLAlchemy"],
-    description:
-      "I couldn't think of another paint reference app, so here we are. I think you get the idea, right? Use your imagination 🌈",
+    projectLink: "#",
+    tech: ["React", "Web3", "NFT"],
+    description: "Mint Page for a futuristic NFT collection designed by Japanese artist Akihiro.",
     modalContent: (
       <>
-        <p>Alright, you got me. I&apos;m all out of paint references.</p>
-        <p>
-          Point is, use this space to explain a bit further WHAT this project
-          is, as well as what YOU contributed to it.
-        </p>
-        <p>You get the idea. Now more lorem {":)"}</p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
-        </p>
+        <p>NFT Collection Featuring 5,500 Unique Digital Illustrations.</p>
+        <p>Developed the Mint Page for a futuristic NFT collection, generating significant revenue within 24 hours.</p>
       </>
     ),
   },

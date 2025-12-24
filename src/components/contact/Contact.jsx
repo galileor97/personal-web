@@ -33,10 +33,10 @@ export const Contact = () => {
           </p>
         </Reveal>
         <Reveal width="w-full">
-          <Link href="mailto:bob.ross@notreal.com">
+          <Link href="mailto:galwicakso@gmail.com">
             <div className="flex items-center justify-center gap-2 w-fit text-lg md:text-2xl whitespace-normal mx-auto hover:text-indigo-300 transition-colors">
               <AiFillMail />
-              <span>bob@notreal.com</span>
+              <span>galwicakso@gmail.com</span>
             </div>
           </Link>
         </Reveal>
